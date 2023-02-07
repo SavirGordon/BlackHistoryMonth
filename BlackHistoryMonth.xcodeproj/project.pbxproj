@@ -13,6 +13,7 @@
 		7E6C731E2992CA650080C7FD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7E6C731C2992CA650080C7FD /* Main.storyboard */; };
 		7E6C73202992CA670080C7FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7E6C731F2992CA670080C7FD /* Assets.xcassets */; };
 		7E6C73232992CA670080C7FD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7E6C73212992CA670080C7FD /* LaunchScreen.storyboard */; };
+		7E6C732B2992D1C30080C7FD /* Match.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E6C732A2992D1C30080C7FD /* Match.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7E6C731F2992CA670080C7FD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7E6C73222992CA670080C7FD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7E6C73242992CA670080C7FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7E6C732A2992D1C30080C7FD /* Match.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Match.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				7E6C73162992CA650080C7FD /* AppDelegate.swift */,
 				7E6C73182992CA650080C7FD /* SceneDelegate.swift */,
 				7E6C731A2992CA650080C7FD /* ViewController.swift */,
+				7E6C732A2992D1C30080C7FD /* Match.swift */,
 				7E6C731C2992CA650080C7FD /* Main.storyboard */,
 				7E6C731F2992CA670080C7FD /* Assets.xcassets */,
 				7E6C73212992CA670080C7FD /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				7E6C731B2992CA650080C7FD /* ViewController.swift in Sources */,
 				7E6C73172992CA650080C7FD /* AppDelegate.swift in Sources */,
 				7E6C73192992CA650080C7FD /* SceneDelegate.swift in Sources */,
+				7E6C732B2992D1C30080C7FD /* Match.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
