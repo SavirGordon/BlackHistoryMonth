@@ -12,4 +12,5 @@ struct Game {
     var fact: String
     var image: UIImage
     var answer: String
+    var color: UIColor
 }
